@@ -1,0 +1,3 @@
+public typealias O<Element> = Observable<Element>
+public typealias Ms = MainScheduler
+//...
